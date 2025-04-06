@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone XYZ",
+    "category": "electronics",
+    "description": "Latest smartphone with advanced camera and long battery life",
+    "tags": [
+      "electronics",
+      "smartphone",
+      "technology"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Smartphone"
+  },
+  {
+    "id": 2,
+    "name": "Fantasy Novel",
+    "category": "books",
+    "description": "Bestselling fantasy novel set in a magical world",
+    "tags": [
+      "books",
+      "fantasy",
+      "fiction"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Novel"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "electronics",
+    "description": "Noise-cancelling wireless headphones with premium sound",
+    "tags": [
+      "electronics",
+      "music",
+      "audio"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Headphones"
+  },
+  {
+    "id": 4,
+    "name": "Camping Tent",
+    "category": "outdoor",
+    "description": "Spacious waterproof tent for 4 people",
+    "tags": [
+      "outdoor",
+      "camping",
+      "travel"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Tent"
+  },
+  {
+    "id": 5,
+    "name": "Basketball",
+    "category": "sports",
+    "description": "Official size basketball with superior grip",
+    "tags": [
+      "sports",
+      "basketball",
+      "outdoor"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Basketball"
+  },
+  {
+    "id": 6,
+    "name": "Cookbook",
+    "category": "cooking",
+    "description": "International recipes with easy-to-follow instructions",
+    "tags": [
+      "cooking",
+      "books",
+      "food"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Cookbook"
+  },
+  {
+    "id": 7,
+    "name": "Action Movie",
+    "category": "movies",
+    "description": "High-octane action film with stunning visual effects",
+    "tags": [
+      "movies",
+      "action",
+      "entertainment"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Movie"
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "category": "photography",
+    "description": "Professional-grade digital camera with 4K video capability",
+    "tags": [
+      "photography",
+      "electronics",
+      "technology"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Camera"
+  },
+  {
+    "id": 9,
+    "name": "Gaming Console",
+    "category": "gaming",
+    "description": "Next-gen gaming console with cutting-edge graphics",
+    "tags": [
+      "gaming",
+      "electronics",
+      "entertainment"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Console"
+  },
+  {
+    "id": 10,
+    "name": "Travel Backpack",
+    "category": "travel",
+    "description": "Durable travel backpack with multiple compartments",
+    "tags": [
+      "travel",
+      "outdoor",
+      "accessories"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Backpack"
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "category": "health",
+    "description": "Advanced fitness tracker with heart rate monitoring",
+    "tags": [
+      "health",
+      "electronics",
+      "fitness"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Tracker"
+  },
+  {
+    "id": 12,
+    "name": "Art Supplies Set",
+    "category": "art",
+    "description": "Complete set of premium art supplies for professionals",
+    "tags": [
+      "art",
+      "creativity",
+      "supplies"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=ArtSupplies"
+  },
+  {
+    "id": 13,
+    "name": "Sci-Fi Novel",
+    "category": "books",
+    "description": "Award-winning science fiction novel about space exploration",
+    "tags": [
+      "books",
+      "sci-fi",
+      "fiction"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=SciFiBook"
+  },
+  {
+    "id": 14,
+    "name": "Wireless Earbuds",
+    "category": "electronics",
+    "description": "Compact wireless earbuds with immersive sound quality",
+    "tags": [
+      "electronics",
+      "music",
+      "audio"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=Earbuds"
+  },
+  {
+    "id": 15,
+    "name": "Hiking Boots",
+    "category": "outdoor",
+    "description": "Waterproof hiking boots with superior traction",
+    "tags": [
+      "outdoor",
+      "hiking",
+      "footwear"
+    ],
+    "imageUrl": "https://placehold.co/400x300?text=HikingBoots"
+  }
+]
