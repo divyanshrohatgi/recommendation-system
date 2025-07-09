@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "preferences": [
+      "electronics",
+      "books",
+      "music"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "preferences": [
+      "sports",
+      "electronics",
+      "outdoor"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "preferences": [
+      "books",
+      "cooking",
+      "movies"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "preferences": [
+      "travel",
+      "music",
+      "photography"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Evan",
+    "preferences": [
+      "electronics",
+      "gaming",
+      "movies"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fiona",
+    "preferences": [
+      "cooking",
+      "travel",
+      "books"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "George",
+    "preferences": [
+      "sports",
+      "outdoor",
+      "health"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hannah",
+    "preferences": [
+      "photography",
+      "art",
+      "books"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ian",
+    "preferences": [
+      "gaming",
+      "electronics",
+      "movies"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Julia",
+    "preferences": [
+      "travel",
+      "cooking",
+      "health"
+    ]
+  }
+]
